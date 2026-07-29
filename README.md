@@ -1,5 +1,5 @@
 # AWS Cloud Security Lab
-![Image Alt](https://github.com/ruturaj2727/CloudSentinel-AWS-Security-Lab.git/blob/main/AWS%20CloudSecurity%20Lab%20Art.jpeg?raw=true)
+![Image Alt](https://github.com/ruturaj2727/CloudSentinel-AWS-Security-Lab/blob/773577e4dd89532a156dbff102d4a9d61375290f/AWS%20CloudSecurity%20Lab%20Art.jpeg)
 
 A hands-on offensive security lab covering six AWS attack categories.
 Each module deploys vulnerable infrastructure via Terraform, executes the attack,
