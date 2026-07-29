@@ -1,12 +1,9 @@
 # AWS Cloud Security Lab
-![Image Alt](https://github.com/kaveeshanirmal141/aws-security-lab/blob/main/AWS%20CloudSecurity%20Lab%20Art.jpeg?raw=true)
+![Image Alt](https://github.com/ruturaj2727/CloudSentinel-AWS-Security-Lab.git/blob/main/AWS%20CloudSecurity%20Lab%20Art.jpeg?raw=true)
 
 A hands-on offensive security lab covering six AWS attack categories.
 Each module deploys vulnerable infrastructure via Terraform, executes the attack,
 documents CloudTrail detection indicators, applies hardening, and destroys all resources.
-
-Built by an 18-year-old cybersecurity student as a self-directed project alongside
-an Advanced Diploma in Cyber Security.
 
 ## Modules
 
